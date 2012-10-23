@@ -1,0 +1,6 @@
+[submodule "modules/packages/httpd"]
+	path = modules/packages/httpd
+	url = git@github.com:jscrobinson/puppet-httpd.git
+[submodule "modules/packages/mysqld"]
+	path = modules/packages/mysqld
+	url = git@github.com:jscrobinson/puppet-mysqld.git
