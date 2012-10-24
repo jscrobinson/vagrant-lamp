@@ -1,3 +1,9 @@
 [submodule "modules/packages/httpd"]
 	path = modules/packages/httpd
 	url = git@github.com:jscrobinson/puppet-httpd.git
+[submodule "modules/packages/mysql"]
+	path = modules/packages/mysql
+	url = git@github.com:jscrobinson/puppetlabs-mysql.git
+[submodule "modules/packages/mysql-restore"]
+	path = modules/packages/mysql-restore
+	url = git@github.com:jscrobinson/puppet-mysql-restore.git
